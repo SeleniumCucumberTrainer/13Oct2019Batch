@@ -12,7 +12,7 @@ public interface InterfaceDemo {
 }
 
 
- class A implements InterfaceDemo{
+ class A  extends AbstractionDemo implements InterfaceDemo{
 	 
 	 public void sum(){
 		 

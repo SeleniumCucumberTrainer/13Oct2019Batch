@@ -8,12 +8,13 @@ public abstract class AbstractionDemo {
 		
 	}
 	
-	public void sum(){
-		//a+b
-	}
+	public abstract void sum();
 
 }
 
 class Y extends AbstractionDemo{
 	
+	public void sum(){
+		
+	}
 }
