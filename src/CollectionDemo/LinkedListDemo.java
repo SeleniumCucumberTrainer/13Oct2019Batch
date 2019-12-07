@@ -14,7 +14,7 @@ public class LinkedListDemo {
       abc.add("Syam");
       
    
-      String name ="This is Ram";
+      String name ="     This is Ram ";
       
       String output = "";
       
@@ -22,7 +22,7 @@ public class LinkedListDemo {
      
      for(String x   :  strArray  ){
     	 
-    	//output =output+x.reversre();
+    	//output =output+x.reversre()+" ";
     	 
      }
       
